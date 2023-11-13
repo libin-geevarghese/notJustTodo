@@ -1,0 +1,38 @@
+.login {
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(6, 6, 87);
+}
+
+.login button {
+  padding: 10px;
+  width: 40%;
+  border-radius: 20px;
+  border: 0px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 5px;
+}
+
+.login button:hover {
+  color: #ffffff;
+  background: hsl(231, 99%, 26%);
+}
+
+.login label {
+  display: block;
+  margin-bottom: 5px;
+  color: rgb(6, 6, 87);
+}
+
+.login input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+}

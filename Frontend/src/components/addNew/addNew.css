@@ -1,0 +1,34 @@
+.add-new {
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+
+  background: linear-gradient(rgb(165, 157, 212), rgb(102, 154, 244));
+  box-shadow: 0 2px 100px #172640;
+  padding: 10px;
+  border-radius: 50px;
+}
+.add-new label {
+  color: rgb(10, 3, 67);
+
+  font-size: medium;
+}
+
+.add-new-form {
+  padding: 25px;
+}
+
+.eventIn {
+  width: 13rem;
+  height: 35px;
+  border-radius: 50px;
+  border: 1px solid white;
+}
+.add-new button {
+  background-color: rgb(18, 18, 186);
+  color: White;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 50px;
+
+  height: 35px;
+}

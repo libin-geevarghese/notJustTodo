@@ -1,0 +1,48 @@
+.dash {
+  width: 100%;
+  /* margin-top: 6rem; */
+}
+
+.dash button {
+  color: rgb(21, 21, 64);
+  border-radius: 8px;
+  border: 2px solid rgb(79, 122, 230);
+  cursor: pointer;
+  box-shadow: 0 2px 100px #a2a2c8;
+}
+
+.dash-cards h1 {
+  margin-bottom: 0;
+}
+.dash-cards h5 {
+  margin-top: 0;
+}
+.dash-cards {
+  box-shadow: 0 2px 100px #a2a2c8;
+  border-radius: 15px;
+  color: rgb(21, 21, 64);
+  padding: 10px;
+}
+
+.dashBanner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  color: rgb(21, 21, 64);
+}
+
+.dash-contents {
+  margin: 10px;
+  color: rgb(21, 21, 64);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+/* .dash-graphs {
+  box-shadow: 0 2px 100px #a2a2c8;
+}
+
+.dash-items {
+  box-shadow: 0 2px 100px #a2a2c8;
+} */
