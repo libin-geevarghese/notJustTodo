@@ -1,18 +1,4 @@
-// db.on("error", (err) => {
-//   console.error(`MongoDB connection error: ${err}`);
-// });
 
-// db.once("open", () => {
-//   console.log("Connected to MongoDB");
-// });
-
-// // other Express configurations and routes ...
-
-// app.listen(PORT, () => {
-//   console.log(`Server started on port ${PORT}.   localhost:${PORT} `);
-// });
-
-///******************************** */
 
 const express = require("express");
 const mongoose = require("mongoose");
